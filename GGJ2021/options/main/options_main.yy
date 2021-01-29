@@ -13,4 +13,3 @@
   "name": "Main",
   "tags": [],
   "resourceType": "GMMainOptions",
-}
